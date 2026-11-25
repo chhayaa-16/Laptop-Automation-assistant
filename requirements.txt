@@ -1,0 +1,6 @@
+
+pywin32
+psutil
+screen-brightness-control
+opencv-python
+winsdk
